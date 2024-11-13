@@ -9,7 +9,7 @@ public class Moto extends Veiculo implements Manutencao {
     @Override
     public double calcularValorSeguro() {
         double valorBase = 500;
-        valorBase += cilindrada * 10;
+        valorBase += cilindrada * 2;
         return valorBase;
     }
 
