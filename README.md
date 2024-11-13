@@ -61,7 +61,7 @@ Manutenção realizada no carro de ABC-1234.
 ------------------------------
 Placa: DEF-5678
 Ano: 2018
-Valor do seguro: R$ 2000.0
+Valor do seguro: R$ 800.0
 Manutenção realizada na moto de DEF-5678.
 ------------------------------
 ```
